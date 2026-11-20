@@ -1,0 +1,17 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
+*.log
+.DS_Store
+
+data/raw/
+data/processed/
+models/
+*.h5ad
+*.h5
+*.npz
+*.fastq
+*.fastq.gz
+*.bam
+*.joblib
