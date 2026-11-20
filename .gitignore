@@ -16,3 +16,6 @@ models/
 *.fastq.gz
 *.bam
 *.joblib
+
+# Unity HPC scheduler outputs
+logs/

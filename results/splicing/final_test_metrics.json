@@ -1,0 +1,23 @@
+{
+  "selected_model": "Logistic_Regression",
+  "C": 0.01,
+  "test_cells": 293,
+  "test_accuracy": 0.7474402730375427,
+  "test_balanced_accuracy": 0.7475305190569379,
+  "test_f1": 0.7412587412587412,
+  "test_roc_auc": 0.8135308918087782,
+  "confusion_matrix": [
+    [
+      113,
+      33
+    ],
+    [
+      41,
+      106
+    ]
+  ],
+  "labels": {
+    "0": "TmY14",
+    "1": "Pm1/Pm2"
+  }
+}
